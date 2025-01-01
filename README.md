@@ -22,5 +22,5 @@ This presentation outlines an example of creating and responding to a Help Ticke
 
 <h2>Ticket Lifecycle Objectives</h2>
 
-- [Create a Ticket as a User](https://github.com/BryanEAtherton/Configure-Roles)
+- [Create a Ticket as a User](https://github.com/BryanEAtherton/Create-a-Ticket/tree/main)
 - [Engage with created Ticket as an Agent](https://github.com/BryanEAtherton/Configure-Departments/tree/main)
