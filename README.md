@@ -18,3 +18,9 @@ This presentation outlines an example of creating and responding to a Help Ticke
 
 
 # Ticket Lifecycle Example
+
+
+<h2>Ticket Lifecycle Objectives</h2>
+
+- [Configure Roles](https://github.com/BryanEAtherton/Configure-Roles)
+- [Configure Departments](https://github.com/BryanEAtherton/Configure-Departments/tree/main)
